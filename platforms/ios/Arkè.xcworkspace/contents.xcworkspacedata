@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Arké.xcodeproj">
+      location = "group:Arkè.xcodeproj">
    </FileRef>
 </Workspace>
