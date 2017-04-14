@@ -8,29 +8,29 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arke"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arke"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arke"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arke"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arke"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arke"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arke"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.odorisio.Odorisio"
+            "PACKAGE_NAME": "com.designbest.arke"
         }
     },
     "dependent_plugins": {}
